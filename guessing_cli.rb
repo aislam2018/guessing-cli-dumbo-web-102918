@@ -1,7 +1,7 @@
 def run_guessing_game 
   input = ""
   while input
-  
+    puts ""
   input = gets.chomp 
   random_num = rand(1..6) 
  
